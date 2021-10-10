@@ -2,7 +2,7 @@
 ## Bilkent University
 ## CS 491/2 Senior Design Project
 A collaborative recipe sharing web app with version control.  
-Check out the website: https://flavorsion.com
+Check out the website: [flavorsion.com](https://flavorsion.com)
 ## Group Members
 - Aleyna Sütbaş - 21803174
 - Baykam Say - 21802030
