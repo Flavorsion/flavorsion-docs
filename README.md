@@ -13,3 +13,4 @@ Check out the website: [flavorsion.com](https://flavorsion.com)
 **Supervisor:** Eray Tüzün
 ## Reports
 [Project Specification Report](/reports/Flavorsion_Project_Specifications_Report_Protected.pdf)
+[Analysis Report](/reports/Flavorsion_Analysis_Report_Protected.pdf)
